@@ -1,6 +1,6 @@
 ﻿# Day Zero
 
-##### Setting up the repository is a TODO in itself.
+### Setting up the repository is a TODO in itself.
 
 Before setting up repository for first time, Have a better understanding of .gitignore file.  
 **Hack-101** In windows you can't create a file with name '.gitignore' so name it '.gitignore.' and windows will automatically save it as '.gitignore']  
