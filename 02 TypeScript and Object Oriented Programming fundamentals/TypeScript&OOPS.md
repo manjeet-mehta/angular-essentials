@@ -11,11 +11,11 @@
  ```
  $ npm install -g typescript
  ```
- * To check the Version of Typescript and confirm your installtion type:
+ * To check the Version of Typescript and confirm your installtion :
  ```
  $ tsc --version
  ```
- * First create a hello.ts file after that transpile that file
+ * After installing Typescript, now create a hello.ts file after that transpile it using below command
  ```
  $ tsc hello.ts
  ```
@@ -24,8 +24,9 @@
  $ node hello.js
  Hello World
  ``` 
- >You can also combine above two steps using pipe   
- $ tsc hello.ts | node hello.js 
+ >You can also combine above two steps using pipe or using && operator   
+ $ tsc hello.ts | node hello.js   
+ $ tsc hello.ts && node hello.js 
  ### JavaScript Versions
  * ES5 (ECMAScript5) : Supported by all browsers
  * ES6 (2015) : (Let keyword was introduced)
