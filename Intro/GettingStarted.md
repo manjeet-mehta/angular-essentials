@@ -96,8 +96,8 @@ index.html we see in VsCode:
     </html>
     ```
     
-index.html we get in browser on viewing Page source
-    ```
+  index.html we get in browser on viewing Page source  
+     ```
     <!doctype html>
     <html lang="en">
     <head>
@@ -116,7 +116,7 @@ index.html we get in browser on viewing Page source
     <script type="text/javascript" src="vendor.js"></script>
     <script type="text/javascript" src="main.js"></script></body>
     </html>
-
+    ```
 * **Hot Module Replacement/Reloading [HMR]** : It's a feature of webpack, Whenever a source file is edited, Webpack automatically refreshes the browser.
 
 
@@ -124,7 +124,7 @@ index.html we get in browser on viewing Page source
 works](https://www.youtube.com/watch?v=S0o-4yc2n-8).
 
 ---
-## Angular Vesion History
+## Angular Version History
 
 Mainly there are two version of Angular
 * Angular 1.x (Also called Angular JS)
